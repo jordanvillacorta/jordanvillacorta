@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jordan Villacorta</h1>
+<h1 align="center">Hi, I'm Jordan Villacorta :raising_hand_man:</h1>
 <h3 align="center">A Full-Stack Developer from Colorado</h3>
 
 <h3 align="left">Connect with me:</h3>
