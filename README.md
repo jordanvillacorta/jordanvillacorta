@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jordan Villacorta :raising_hand_man:</h1>
-<h3 align="center">Full-Stack Developer | Javascript | React | React Native | Node.js</h3>
+<h3 align="center">Full-Stack Developer | Javascript | React.js | React Native | Node.js</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
